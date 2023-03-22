@@ -1,0 +1,9 @@
+// 20191116112020
+// https://api.themoviedb.org/3/discover/movie?api_key=<tmdb key>&with_genres=2,16,18,12,14,10751,35,10751,28,878,35,10402,10749&region=FR
+
+{
+    "page": 1,
+    "total_results": 0,
+    "total_pages": 0,
+    "results": []
+}
